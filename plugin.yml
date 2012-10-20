@@ -1,0 +1,4 @@
+name: AppleCommands
+main: com.applerox.jack.AppleCommands.AppleCommands
+version: 0.1
+depend: [Vault]
